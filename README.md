@@ -1,0 +1,11 @@
+# 1.Current Weather
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1pzN1RtaHZxUlpsSWtuc3ZXTGV5bHU3YmUzZ3xBQ3Jtc0tuYzRmam1aUkxVMDJELWMweGpDZHoyQ2Y2UHlrQkhvMmRGSUJoLXFtamlFSEw2aTA2M0ZfSlg0dmcwbXdwZUpuLUFPU19UbXhHN016LXhxZFdXbFBXSUw1OVFacnZFYjB0ZV9nbmlLd0ZtclkxQ0NtYw&q=https%3A%2F%2Fapi.openweathermap.org%2Fdata%2F2.5%2Fweather%3Fq%3DVisakhapatnam%26appid%3Dyour_api_Key%26units%3Dmetric&v=oS6AjKOjk_8
+
+# 2.Air Pollution
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEdmUTVBNDZBbkxKdENTSXhaa1VxSEpFazl0Z3xBQ3Jtc0trTkVKazRlZEJrZktNYzYxRG5nSkhVUVV4T1RXcExoQ1Q4elJQM2UxNFZBMWxKc2VSVGR0ZzZzdTQ4MzN6NEtCT2o2WnE2UFZaWjJENjNRWUd4RmxocHhIMC1lOFlKTmNXSlZuRE40Vm0zeFlSdUJ4bw&q=https%3A%2F%2Fapi.openweathermap.org%2Fdata%2F2.5%2Fair_pollution%3Flat%3D17.69%26lon%3D83.2093%26appid%3Dyour_api_Key&v=oS6AjKOjk_8
+
+# 3.Forecast For Coming 5 Days For Every 3 Days
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnhMYkVyMlhLTGxTWHRiQzFKd253UDBwQnVPQXxBQ3Jtc0tsQlVVd1NOd1A0Mmo2LWVUTUhPR0kwRV9wZ1VvTkQzVFNPLWVWYVJzWkIyVm1vR2h4anM4NlhhdXR2anFWNlpEalE3emowYWp1SUxrN1dIVW1XbmZ3djdJY2gtdXdRSUVrckxiQVZ2TnpuRHY2Y2dWNA&q=https%3A%2F%2Fapi.openweathermap.org%2Fdata%2F2.5%2Fforecast%3Flat%3D17.69%26lon%3D83.2093%26appid%3Dyour_api_Key%26units%3Dmetric&v=oS6AjKOjk_8
