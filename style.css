@@ -1,4 +1,4 @@
-body {
+ body {
   background: url("./images/2148933766.jpg");
   background-position: bottom;
   background-attachment: fixed;
@@ -178,7 +178,7 @@ body {
     justify-content: space-between;
     gap: 15px;
     width: 100%;
-    margin: auto;
+    /* margin: auto; */
   }
 
   .todayTempParentDiv > div {
